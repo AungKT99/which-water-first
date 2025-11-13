@@ -1,0 +1,3 @@
+[submodule "extern/SPlisHSPlasH"]
+	path = extern/SPlisHSPlasH
+	url = https://github.com/InteractiveComputerGraphics/SPlisHSPlasH.git
